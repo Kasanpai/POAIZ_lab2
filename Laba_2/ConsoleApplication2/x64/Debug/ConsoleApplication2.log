@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+D:\Praktika\LOAIZ\laba2\Laba_2\ConsoleApplication2\ConsoleApplication2.cpp(391,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> D:\Praktika\LOAIZ\laba2\Laba_2\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
